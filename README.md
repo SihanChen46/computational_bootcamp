@@ -35,7 +35,7 @@ __Sections__:
 Prerequisite Knowledge
 ----
 
-- Acceptance into the MSDS program
+- Acceptance into the MSDS program.
 
 Learning Outcomes
 ----
@@ -43,9 +43,9 @@ Learning Outcomes
 By the end of the course, you should be able to:  
 
 1. Write Python programs to solve data-related problems.
-1. Explain common programming terms in your own words.
-1. Be able to read and use programming language documentation.
-1. Use contemporary best practices with industry-standard software development tools.
+1. Define common programming terms in your own words.
+1. Read and use programming language documentation.
+1. Apply contemporary best practices with industry-standard software development tools.
 
 ----
 Tentative Course Schedule and Topics
@@ -54,13 +54,13 @@ Tentative Course Schedule and Topics
 1. 07/09 
     - Welcome 
     - Overview of Python
-    - Functions, built-in and user-defined
+    - Functions (built-in and user-defined)
     - Setting up your computer
 1. 07/11
     - Booleans and truthiness
     - Conditionals
     - Looping with `for` and `while`   
-    - NumPy  
+    - NumPy (Numeric Python) library
 1. 07/15 Quiz #1   
 1. 07/15 
     - Strings and string formatting 
@@ -99,21 +99,21 @@ Tentative Course Schedule and Topics
 Topics Not Covered
 -----
 
-- Introduction to programming (i.e., the course assumes you already know the very basics of programming)
+- Introduction to programming (the course assumes you already know the very basics of programming)
 - Implementation of fundamental programming data structures (e.g., linked lists)
 - Implementation of fundamental programming algorithms (e.g., sorting)
 - Other part of Python's scientific stack: SciPy, scikit-learn, Pandas
-- Other data storage types: CSV, TSV, parquet
-- Advanced oop: Multiple inheritance, static methods
-- Dynamic Programming  
+- Other data storage types: JSON, CSV, TSV, parquet
+- Advanced OOP: Multiple inheritance, static methods, property methods
+- Dynamic programming  
 - Data visualization 
-- Concurrency, threading, async
+- Concurrency, threading, `async` module
 - Distributed computing
-- Integrated development environment (IDE): PyCharm, Visual Studio Code,
-- Data acquisition: web, web scraping, api, requests library, JSON
-- Optimizing your computer: Onyx, chrome extensions  
-- Numerical processing: Numerical precision, ints and floats
-- Automating AWS with boto
+- Integrated development environment (IDE): PyCharm, Visual Studio Code
+- Data acquisition: web architecture, web scraping, APIs, `requests` library 
+- Optimizing your computer: Onyx, Chrome extensions  
+- Numerical processing: Numerical precision, `int`s and `float`s
+- Automating AWS with `boto` library
 
 ----
 Textbooks
@@ -133,21 +133,21 @@ Grading
 
 | Item           | Weight   |
 |:---------------|:--------:|
-| Professionalism| 10%       |  
-| Quizzes        | 50%      |
+| Professionalism| 10%      |  
 | Homeworks      | 20%      |
 | Projects       | 20%      |
+| Quizzes        | 50%      |
 | __Total__      | __100%__ |
 
 Each item's contribution is capped its respective percentage. The total course percentage is capped at 100%.
 
-Currently, there is no extra credit. If there is any extra credit, it entirely at the discretion of the instructor.
+Currently, there is no extra credit. If there is any extra credit, it is entirely at the discretion of the instructor.
 
-We'll be using Canvas as the learning management system (LMS), aka gradebook. The instructional team will do their best to have Canvas accurately reflect your current scores in the course. However, Canvas may not 100% accurate all the time. In other words, your actual grade maybe significant different than it appears on Canvas. 
+We'll be using Canvas as the learning management system (LMS), aka gradebook. The instructional team will do their best to have Canvas accurately reflect your current scores in the course. However, Canvas may not be completely accurate all the time. In other words, your actual grade maybe significant different than it appears on Canvas. 
 
 ### Professionalism
 
-I expect you act professionally both in-person (inside and outside the classroom) and electronically. Since people come up from a variety of backgrounds, I want to be explicit about the elements of professionalism: 
+I expect you act professionally  in-person (both inside and outside the classroom) and electronically. Since people come up from a variety of backgrounds, I want to be explicit about the elements of professionalism: 
 
 - Show up on time and prepared.
 - Remain fully present.
@@ -155,11 +155,11 @@ I expect you act professionally both in-person (inside and outside the classroom
 - Follow staff and faculty instructions appropriately.
 - Show respect to all people.
 
-The Professionalism points are entirely at the instructor's discretion. They may include small ad hoc assignments, such as Student Info Survey about your preferred name and photo.
+Professionalism points are entirely at the instructor's discretion. Part of professionalism may include completing small ad hoc assignments, such as MSDS Student Info Survey and setting up online profiles for the tools MSDS program uses.
 
 I try to create an active learning environment in my classroom. Attendance is mandatory, you can't participate if you don't attend. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness, job interviewing, or other circumstances, please notify your instructor by Slack in advance. Supporting documents (e.g., doctor’s notes) may be asked for to accompany absences.
 
-Tardiness negatively impacts an active learning environment, thus will impact your professional grade.
+Tardiness negatively impacts an active learning environment, thus will impact your professionalism grade.
 
 You must show up to each session prepared. Each person is important to the dynamic of the class, and therefore students are required to participate in class activities. Expect to be "cold called". I call on students at random not to put you on the spot but to keep you engaged in the material at all times.
 
@@ -177,7 +177,7 @@ More detailed information in the quiz policies document.
 
 ### Homeworks
 
-Each homework will be a collection of short Python problems. There will be 1 homework per week (for a total of 4, each worth 5% of total grade). Each homework will due on Sunday by 9:00p submitted on Canvas.
+Each homework will be a collection of short coding problems in Python. There will be 1 homework per week (for a total of 4, each worth 5% of total grade). Each homework will due on Sunday by 9:00p submitted on Canvas.
 
 Late assignments will only be accepted for medical emergencies.
 
@@ -185,7 +185,7 @@ Asking for acceptance of any late assignments without a medical emergency or sub
 
 ### Projects
 
-Each project will be series of interdependent Python problems to accomplish a large goal. There will be 2 projects, each worth 10% of total grade. 
+Each project will be series of interdependent coding problems in Python to accomplish a large goal. There will be 2 projects, each worth 10% of total grade. 
  
 1. Text Processing Project due 07-27-19 (Saturday) at 9p submitted on Canvas.
 1. Image Processing Project due 08-10-19 (Saturday) at 9p submitted on Canvas.
@@ -214,7 +214,7 @@ Academic Integrity
 
 USF upholds the standards of honesty and integrity from all members of the academic community. All students are expected to know and adhere to the University's [Honor Code](https://myusf.usfca.edu/academic-integrity/).
 
-You may not copy code from other current or previous students. All suspicious activity will be investigated and, if warranted, passed to the Dean of Sciences for action.  Copying answers or code from other students or sources during a quiz, exam, or for a project is a violation of the university’s honor code and will be treated as such. Plagiarism consists of copying material from any source and passing off that material as your own original work. Plagiarism is plagiarism: it does not matter if the source being copied is on the Internet, from a book or textbook, or from quizzes or problem sets written up by other students. Giving code or showing code to another student is also considered a violation. You must also abide by the copyright laws of the United States.
+You may not copy code from other current or previous students. All suspicious activity will be investigated and, if warranted, passed to the Dean of Sciences for action. Copying answers or code from other students or sources during a quiz, exam, or for a project is a violation of the university’s honor code and will be treated as such. Plagiarism consists of copying material from any source and passing off that material as your own original work. Plagiarism is plagiarism: it does not matter if the source being copied is on the Internet, from a book or textbook, or from quizzes or problem sets written up by other students. Giving code or showing code to another student is also considered a violation. You must also abide by the copyright laws of the United States.
 
 The golden rule: **You must never represent another person’s work as your own.** Credit to [Terence Parr](https://github.com/parrt/msds689).
 
