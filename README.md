@@ -6,9 +6,9 @@
 Course Description
 ----
 
-This short bootcamp-style course is part of the [MS in Data Science (formerly MS Analytics) program at the University of San Francisco](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) and is specifically designed as an catalyst to improve computer programming for those who are not yet skilled programmers. The course will focus on the computer programming concepts and skills directly related to applied data science.
+This short bootcamp-style course is part of the [MS in Data Science (formerly MS Analytics) program at the University of San Francisco](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) and is specifically designed as a catalyst to improve computer programming for those who are not yet skilled programmers. The course will focus on the computer programming concepts and skills directly related to applied data science.
 
-Writing software is about problem solving, computer languages, algorithms, data structures, libraries, tools, and computing devices. In this course, I'm hoping to teach you how to approach programming, review the key elements of Python, teach how to leverage Python to solve programs, give you an introduction to the command line, and finally introduce you to cloud computing. You will go deeper into data structures and algorithms in a specific data structures and algorithms course later in the MSDS program.
+Writing software is about problem-solving, computer languages, algorithms, data structures, libraries, tools, and computing devices. In this course, I'm hoping to teach you how to approach programming, review the key elements of Python, teach how to leverage Python to solve programs, give you an introduction to the command line, and finally introduce you to cloud computing. You will go deeper into data structures and algorithms in the specific data structures and algorithms course later in the MSDS program.
 
 ----
 Logistics
@@ -30,7 +30,7 @@ __Sections__:
 1. Mondays<sup>*</sup> and Thursdays from 10:00a-11:50a   
 2. Mondays<sup>*</sup> and Thursdays from 1:00p-2:50p 
 
-\* Except first week. Due to orientation, class will be on Tuesday (07/09)
+\* Except first week. Due to orientation, the first class will be on Tuesday (07/09)
 
 Prerequisite Knowledge
 ----
@@ -102,7 +102,7 @@ Topics Not Covered
 - Introduction to programming (the course assumes you already know the very basics of programming)
 - Implementation of fundamental programming data structures (e.g., linked lists)
 - Implementation of fundamental programming algorithms (e.g., sorting)
-- Other part of Python's scientific stack: SciPy, scikit-learn, Pandas
+- Other parts of Python's scientific stack: SciPy, scikit-learn, Pandas
 - Other data storage types: JSON, CSV, TSV, parquet
 - Advanced OOP: Multiple inheritance, static methods, property methods
 - Dynamic programming  
@@ -143,11 +143,11 @@ Each item's contribution is capped its respective percentage. The total course p
 
 Currently, there is no extra credit. If there is any extra credit, it is entirely at the discretion of the instructor.
 
-We'll be using Canvas as the learning management system (LMS), aka gradebook. The instructional team will do their best to have Canvas accurately reflect your current scores in the course. However, Canvas may not be completely accurate all the time. In other words, your actual grade maybe significant different than it appears on Canvas. 
+We'll be using Canvas as the learning management system (LMS), aka the gradebook. The instructional team will do their best to have Canvas accurately reflect your current scores in the course. However, Canvas may not be completely accurate all the time. In other words, your actual grade maybe significant different than it appears on Canvas. 
 
 ### Professionalism
 
-I expect you act professionally  in-person (both inside and outside the classroom) and electronically. Since people come up from a variety of backgrounds, I want to be explicit about the elements of professionalism: 
+I expect you act professionally in-person (both inside and outside the classroom) and electronically. Since people come up from a variety of backgrounds, I want to be explicit about the elements of professionalism: 
 
 - Show up on time and prepared.
 - Remain fully present.
@@ -157,21 +157,21 @@ I expect you act professionally  in-person (both inside and outside the classroo
 
 Professionalism points are entirely at the instructor's discretion. Part of professionalism may include completing small ad hoc assignments, such as MSDS Student Info Survey and setting up online profiles for the tools MSDS program uses.
 
-I try to create an active learning environment in my classroom. Attendance is mandatory, you can't participate if you don't attend. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness, job interviewing, or other circumstances, please notify your instructor by Slack in advance. Supporting documents (e.g., doctor’s notes) may be asked for to accompany absences.
+I try to create an active learning environment in my classroom. Attendance is mandatory, you can't participate if you don't attend. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness, job interviewing, or other circumstances, please notify your instructor by Slack in advance. Supporting documents (e.g., doctor’s notes) may be asked for.
 
 Tardiness negatively impacts an active learning environment, thus will impact your professionalism grade.
 
-You must show up to each session prepared. Each person is important to the dynamic of the class, and therefore students are required to participate in class activities. Expect to be "cold called". I call on students at random not to put you on the spot but to keep you engaged in the material at all times.
+You must show-up to each session prepared. Each person is important to the dynamic of the class, and therefore students are required to participate in class activities. Expect to be "cold called". I call on students at random not to put you on the spot but to keep you engaged in the material at all times.
 
-This is a closed-computer classroom. Your phone and laptop must stay put away during the entire class, unless explicitly instructed by me that it is okay to use your laptop for a specific activity. I have directly observed that just the presence of phones and laptops negatively impacts the learning experience for everyone in the classroom. I expect you to be fully present and engaged in the classroom at all times. I _strongly_ suggest  taking notes on paper. A tablet is acceptable for note taking. A tablet should __not__ be used for any other purpose.
+This is a closed-computer classroom. Your phone and laptop must stay put away during the entire class, unless explicitly instructed by me that it is okay to use your laptop for a specific activity. I have directly observed that just the presence of phones and laptops negatively impacts the learning experience for everyone in the classroom. I expect you to be fully present and engaged in the classroom at all times. I _strongly_ suggest taking notes on paper. A tablet is acceptable for note taking. A tablet should __not__ be used for any other purpose.
 
 This is your warning around off-topic computer use. Violations include (but not limited to): looking at the screen, typing, and using any type of computer for activities not directly to the current in-class activities. Every violation will negatively impact your total grade by losing professional points. The penalties scale exponentially - The first offense is will result in a .5% loss of total points, the second offense is 1% of total points, the third offense is 3%, the fourth offense is 6%, and the fifth offense is 10% of total points (i.e., the cap is 100% of your professional points). 
 
 ### Quizzes
 
-Every Monday at 9am there be a quiz (a total of 4). Quizzes will be a combination of multiple choice, short answer, and programming questions.
+Every Monday at 9 am there be a quiz (a total of 4). Quizzes will be a combination of multiple choice, short answer, and programming questions.
 
-Missing a quizzes will only be accommodated for medical emergencies.
+Missing quizzes will only be accommodated for medical emergencies.
 
 More detailed information in the quiz policies document.
 
@@ -185,7 +185,7 @@ Asking for acceptance of any late assignments without a medical emergency or sub
 
 ### Projects
 
-Each project will be series of interdependent coding problems in Python to accomplish a large goal. There will be 2 projects, each worth 10% of total grade. 
+Each project will be a series of interdependent coding problems in Python to accomplish a large goal. There will be 2 projects, each worth 10% of the total grade. 
  
 1. Text Processing Project due 07-27-19 (Saturday) at 9p submitted on Canvas.
 1. Image Processing Project due 08-10-19 (Saturday) at 9p submitted on Canvas.

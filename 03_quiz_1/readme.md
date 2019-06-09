@@ -1,6 +1,6 @@
 See Quiz Policies in resources folder.
 
-__Any course material is fair-game. All quizzes are cumulative.__
+__All__ course materials are fair-game. All quizzes are cumulative.__
 
 More effective ways of studying
 ------
