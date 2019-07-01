@@ -6,9 +6,9 @@
 Course Description
 ----
 
-This short bootcamp-style course is part of the [MS in Data Science (formerly MS Analytics) program at the University of San Francisco](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) and is specifically designed as a catalyst to improve computer programming for those who are not yet skilled programmers. The course will focus on the computer programming concepts and skills directly related to applied data science.
+This short bootcamp-style course is part of the [MS in Data Science (formerly MS Analytics) program at the University of San Francisco](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) and is specifically designed as a catalyst to improve computer programming for those who are not yet skilled programmers. The course will focus on the applied computer programming concepts and skills directly related to data science.
 
-Writing software is about problem-solving, computer languages, algorithms, data structures, libraries, tools, and computing devices. In this course, I'm hoping to teach you how to approach programming, review the key elements of Python, teach how to leverage Python to solve programs, give you an introduction to the command line, and finally introduce you to cloud computing. You will go deeper into data structures and algorithms in the specific data structures and algorithms course later in the MSDS program.
+Writing software is about problem-solving, data structures, algorithms, computer languages, libraries, software tools, and computing devices. In this course, I'm going to teach you how to approach programming, review the key elements of Python, teach how to leverage Python to solve data science programs, give you an introduction to the command line, and finally introduce you to cloud computing. You will go deeper into fundamental data structures and algorithms in that specific course later in the MSDS program.
 
 ----
 Logistics
@@ -18,8 +18,8 @@ __Instructor:__ Brian Spiering
 __Contact__: [Slack @Brian Spiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
 __Office hours__: Mondays and Thursdays from 12:00-1:00p   
 
-__Grader__: TBD  
-__Contact__: [Slack @TBD](https://msan-usf.slack.com/messages/@TBD) | [TBD@dons.usfca.edu](mailto:TBD@dons.usfca.edu) 
+__Grader__: Robert Sandor  
+__Contact__: [Slack @rsandor](https://msan-usf.slack.com/messages/DCKPG71FD) | [risandor@usfca.edu](mailto:risandor@usfca.edu) 
 
 __Website__: [github.com/brianspiering/
 computational_bootcamp](https://github.com/brianspiering/computational_bootcamp)    
@@ -44,11 +44,13 @@ By the end of the course, you should be able to:
 
 1. Write Python programs to solve data-related problems.
 1. Define common programming terms in your own words.
+2. Use NumPy to efficiency perform complex numerical analysis.
+4. Fluently use the Jupyter Notebook environment for writing, testing, and debugging Python code.
 1. Read and use programming language documentation.
-1. Apply contemporary best practices with industry-standard software development tools.
+1. Use fundamental Unix command line tools, git, and GitHub.
 
 ----
-Tentative Course Schedule and Topics
+Course Schedule and Topics (Tentative)
 ----
  
 1. 07/09 
@@ -102,8 +104,8 @@ Topics Not Covered
 - Introduction to programming (the course assumes you already know the very basics of programming)
 - Implementation of fundamental programming data structures (e.g., linked lists)
 - Implementation of fundamental programming algorithms (e.g., sorting)
-- Other parts of Python's scientific stack: SciPy, scikit-learn, Pandas
-- Other data storage types: JSON, CSV, TSV, parquet
+- Other libraries in Python's data science stack: SciPy, scikit-learn, Pandas
+- Tabular data storage: JSON, CSV, TSV, parquet
 - Advanced OOP: Multiple inheritance, static methods, property methods
 - Dynamic programming  
 - Data visualization 
@@ -111,8 +113,6 @@ Topics Not Covered
 - Distributed computing
 - Integrated development environment (IDE): PyCharm, Visual Studio Code
 - Data acquisition: web architecture, web scraping, APIs, `requests` library 
-- Optimizing your computer: Onyx, Chrome extensions  
-- Numerical processing: Numerical precision, `int`s and `float`s
 - Automating AWS with `boto` library
 
 ----
@@ -155,7 +155,11 @@ I expect you act professionally in-person (both inside and outside the classroom
 - Follow staff and faculty instructions appropriately.
 - Show respect to all people.
 
-Professionalism points are entirely at the instructor's discretion. Part of professionalism may include completing small ad hoc assignments, such as MSDS Student Info Survey and setting up online profiles for the tools MSDS program uses.
+Professionalism points are entirely at the instructor's discretion. 
+
+Violations of Academic Integrity are unprofessional, thus you'll automatically lose all Professionalism points for any violations of Academic Integrity.
+
+Part of professionalism may include completing small ad hoc assignments, such as MSDS Student Info Survey and setting up online profiles for the tools MSDS program uses.
 
 I try to create an active learning environment in my classroom. Attendance is mandatory, you can't participate if you don't attend. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness, job interviewing, or other circumstances, please notify your instructor by Slack in advance. Supporting documents (e.g., doctor’s notes) may be asked for.
 
@@ -169,11 +173,11 @@ This is your warning around off-topic computer use. Violations include (but not 
 
 ### Quizzes
 
-Every Monday at 9 am there be a quiz (a total of 4). Quizzes will be a combination of multiple choice, short answer, and programming questions.
+There be will be a quiz every Monday at 9 am, for a total of 4. Quizzes will be a combination of multiple choice, short answer, and programming questions.
 
 Missing quizzes will only be accommodated for medical emergencies.
 
-More detailed information in the quiz policies document.
+More detailed information is in the quiz policies document in the resources folder on the course website.
 
 ### Homeworks
 

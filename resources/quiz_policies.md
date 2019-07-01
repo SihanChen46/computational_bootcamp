@@ -24,7 +24,7 @@ Computational Bootcamp Quiz Policies
 
 - Once you finish the quiz, you have to leave the room. At a minimum, remaining in the room is a distraction to the other students still working on the quiz. Opening notes, browsing the Internet, or using your phone could be considered facilitating cheating. Just leave the room after submitting quiz.
 
-Please reach out the instructor about any questions or clarifications.
+Please reach out to the instructor about any questions or clarifications.
 
 -----
 
@@ -85,6 +85,3 @@ You'll ask for it, here it is. Sample quiz questions:
     Correct answer is: 
 
     <!--- C ---> (It is hidden in the website code. Look at the raw HTML.)
-
-
-
