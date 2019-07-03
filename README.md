@@ -44,8 +44,8 @@ By the end of the course, you should be able to:
 
 1. Write Python programs to solve data-related problems.
 1. Define common programming terms in your own words.
-2. Use NumPy to efficiency perform complex numerical analysis.
-4. Fluently use the Jupyter Notebook environment for writing, testing, and debugging Python code.
+1. Use NumPy to efficiency perform complex numerical analysis.
+1. Fluently use the Jupyter Notebook environment for writing, testing, and debugging Python code.
 1. Read and use programming language documentation.
 1. Use fundamental Unix command line tools, git, and GitHub.
 
@@ -63,37 +63,37 @@ Course Schedule and Topics (Tentative)
     - Conditionals
     - Looping with `for` and `while`   
     - NumPy (Numeric Python) library
-1. 07/15 Quiz #1   
 1. 07/15 
     - Strings and string formatting 
     - List and list comprehensions  
     - Sets, dicts, and Counters
+1. 07/18 Quiz #1 
 1. 07/18
     - Bash
     - File handling  
     - git and GitHub  
-1. 07/22  Quiz #2   
 1. 07/22 
     - Recursion   
     - Scripting   
+1. 07/25  Quiz #2 
 1. 07/25 
     - Object-oriented programming (OOP) and using classes   
     - Solving the same problem in multiple programming paradigms
-1. 07/29 Quiz #3   
 1. 07/29 
     - Unicode  
     - Debugging
+1. 08/01 Quiz #3  
 1. 08/01
     - Review / Buffer day
     - Possible Topics:
         - Advanced functions: generators, decorators
         - Intermediate Python: `any`, `all`, `in`
         - Standard Library modules: `sys`, `os`, `collections`
-1. 08/05 Quiz #4  
 1. 08/05
     - How to organize code (e.g., pep8)  
     - Refactoring 
     - Create your own modules  
+1. 08/08 Quiz #4  
 1. 08/08
     - Amazon Web Services (AWS), s3, and ec2   
     - Optional topics
@@ -105,7 +105,7 @@ Topics Not Covered
 - Implementation of fundamental programming data structures (e.g., linked lists)
 - Implementation of fundamental programming algorithms (e.g., sorting)
 - Other libraries in Python's data science stack: SciPy, scikit-learn, Pandas
-- Tabular data storage: JSON, CSV, TSV, parquet
+- Tabular data storage and processing: JSON, CSV, parquet
 - Advanced OOP: Multiple inheritance, static methods, property methods
 - Dynamic programming  
 - Data visualization 
