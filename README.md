@@ -173,7 +173,7 @@ This is your warning around off-topic computer use. Violations include (but not 
 
 ### Quizzes
 
-There be will be a quiz every Monday at 9 am, for a total of 4. Quizzes will be a combination of multiple choice, short answer, and programming questions.
+There be will be a quiz every Thursday starting at 9 am starting the second week, for a total of 4. Quizzes will be a combination of multiple choice, short answer, and programming questions.
 
 Missing quizzes will only be accommodated for medical emergencies.
 
