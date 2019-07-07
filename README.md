@@ -16,7 +16,8 @@ Logistics
 
 __Instructor:__ Brian Spiering   
 __Contact__: [Slack @Brian Spiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
-__Office hours__: Mondays and Thursdays from 12:00-1:00p   
+__Office hours__: Mondays and Thursdays<sup>*</sup> from 12:30-1:00p   
+\* Except: 1st week Tuesday (07/09) from 12:30-1 and Thursday (07/011) from 3-3:30; 2nd week Thursday  (07/18) from 3-3:30.
 
 __Grader__: Robert Sandor  
 __Contact__: [Slack @rsandor](https://msan-usf.slack.com/messages/DCKPG71FD) | [risandor@usfca.edu](mailto:risandor@usfca.edu) 
@@ -104,6 +105,7 @@ Topics Not Covered
 - Introduction to programming (the course assumes you already know the very basics of programming)
 - Implementation of fundamental programming data structures (e.g., linked lists)
 - Implementation of fundamental programming algorithms (e.g., sorting)
+- Python 2
 - Other libraries in Python's data science stack: SciPy, scikit-learn, Pandas
 - Tabular data storage and processing: JSON, CSV, parquet
 - Advanced OOP: Multiple inheritance, static methods, property methods
@@ -119,11 +121,10 @@ Topics Not Covered
 Textbooks
 ----
 
-There are __no required__ textbooks for the course.
+The required textbook is _Fundamentals of Python Programming_ by Richard L. Halterman. Generously made available for free [here]( http://python.cs.southern.edu/pythonbook/pythonbook.pdf).
 
-Here are suggested books:
+Here are other suggested books to help you become a better Python programmer:
 
-- [Think Python](http://greenteapress.com/thinkpython2/html/index.html) by Allen Downey   
 - [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) by Luciano Ramalho 
 - [Python Cookbook, Third edition](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377/) by David Beazley and Brian K. Jones
 
@@ -134,7 +135,7 @@ Grading
 | Item           | Weight   |
 |:---------------|:--------:|
 | Professionalism| 10%      |  
-| Homeworks      | 20%      |
+| Labs           | 20%      |
 | Projects       | 20%      |
 | Quizzes        | 50%      |
 | __Total__      | __100%__ |
@@ -173,15 +174,15 @@ This is your warning around off-topic computer use. Violations include (but not 
 
 ### Quizzes
 
-There be will be a quiz every Thursday starting at 9 am starting the second week, for a total of 4. Quizzes will be a combination of multiple choice, short answer, and programming questions.
+There be will be a quiz every Thursday, starting the second week, at 9 am for a total of 4 quizzes. Quizzes will be a combination of multiple choice, short answer, and programming questions.
 
 Missing quizzes will only be accommodated for medical emergencies.
 
 More detailed information is in the quiz policies document in the resources folder on the course website.
 
-### Homeworks
+### Labs
 
-Each homework will be a collection of short coding problems in Python. There will be 1 homework per week (for a total of 4, each worth 5% of total grade). Each homework will due on Sunday by 9:00p submitted on Canvas.
+Each lab will be a collection of short coding problems in Python. There will be 1 lab per week (for a total of 4, each worth 5% of total grade). Each lab will due on Sunday by 9:00p submitted on Canvas.
 
 Late assignments will only be accepted for medical emergencies.
 
