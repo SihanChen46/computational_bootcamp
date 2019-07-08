@@ -8,7 +8,7 @@ Course Description
 
 This short bootcamp-style course is part of the [MS in Data Science (formerly MS Analytics) program at the University of San Francisco](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) and is specifically designed as a catalyst to improve computer programming for those who are not yet skilled programmers. The course will focus on the applied computer programming concepts and skills directly related to data science.
 
-Writing software is about problem-solving, data structures, algorithms, computer languages, libraries, software tools, and computing devices. In this course, I'm going to teach you how to approach programming, review the key elements of Python, teach how to leverage Python to solve data science programs, give you an introduction to the command line, and finally introduce you to cloud computing. You will go deeper into fundamental data structures and algorithms in that specific course later in the MSDS program.
+Writing software is about problem-solving, data structures, algorithms, computer languages, libraries, software tools, and computing devices. In this course, I'm going to teach you how to approach programming, review the key elements of Python, teach you how to leverage Python to solve data science programs, introduce you to the command line, and finally introduce you to cloud computing. You will go deeper into fundamental data structures and algorithms later in the MSDS program in a course that specifics cover those topics.
 
 ----
 Logistics
@@ -76,7 +76,7 @@ Course Schedule and Topics (Tentative)
 1. 07/22 
     - Recursion   
     - Scripting   
-1. 07/25  Quiz #2 
+1. 07/25 Quiz #2 
 1. 07/25 
     - Object-oriented programming (OOP) and using classes   
     - Solving the same problem in multiple programming paradigms
