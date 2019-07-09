@@ -6,9 +6,9 @@
 Course Description
 ----
 
-This short bootcamp-style course is part of the [MS in Data Science (formerly MS Analytics) program at the University of San Francisco](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) and is specifically designed as a catalyst to improve computer programming for those who are not yet skilled programmers. The course will focus on the applied computer programming concepts and skills directly related to data science.
+This short bootcamp-style course is part of the [MS in Data Science (formerly MS Analytics) program at the University of San Francisco](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) and is specifically designed as a catalyst to improve computer programming skills for those who are not yet skilled programmers. The course will focus on the applied computer programming concepts and skills directly related to data science.
 
-Writing software is about problem-solving, data structures, algorithms, computer languages, libraries, software tools, and computing devices. In this course, I'm going to teach you how to approach programming, review the key elements of Python, teach you how to leverage Python to solve data science programs, introduce you to the command line, and finally introduce you to cloud computing. You will go deeper into fundamental data structures and algorithms later in the MSDS program in a course that specifics cover those topics.
+Writing software is about problem-solving, data structures, algorithms, computer languages, libraries, software tools, and computing devices. In this course, I'm going to teach you how to approach programming, review the key elements of Python, teach you how to leverage Python to solve data science programs, introduce you to the command line, and finally introduce you to cloud computing. You'll go deeper into fundamental data structures and algorithms later in the MSDS program in a course that specifics cover those topics.
 
 ----
 Logistics
@@ -33,7 +33,11 @@ __Sections__:
 
 \* Except first week. Due to orientation, the first class will be on Tuesday (07/09)
 
-Prerequisite Knowledge
+You have been assigned a section, either the first section or the second section, for this course. You __must__ attend the section you have been assigned!
+
+Anyone enrolled in the MSDS program can audit the course. You do __not__ need my permission or notify me if you want to audit. Just show up! I plan to record my lectures and make all materials available to all students. All the course materials are autograded so you can try the exercises and see where you stand.
+
+Prerequisites
 ----
 
 - Acceptance into the MSDS program.
@@ -168,7 +172,7 @@ Tardiness negatively impacts an active learning environment, thus will impact yo
 
 You must show-up to each session prepared. Each person is important to the dynamic of the class, and therefore students are required to participate in class activities. Expect to be "cold called". I call on students at random not to put you on the spot but to keep you engaged in the material at all times.
 
-This is a closed-computer classroom. Your phone and laptop must stay put away during the entire class, unless explicitly instructed by me that it is okay to use your laptop for a specific activity. I have directly observed that just the presence of phones and laptops negatively impacts the learning experience for everyone in the classroom. I expect you to be fully present and engaged in the classroom at all times. I _strongly_ suggest taking notes on paper. A tablet is acceptable for note taking. A tablet should __not__ be used for any other purpose.
+This is a closed-computer classroom. Your phone and laptop must stay put away during the entire class, unless explicitly instructed by me that it is okay to use your laptop for a specific activity. I have directly observed that just the presence of phones and laptops negatively impacts the learning experience for everyone in the classroom. I expect you to be fully present and engaged in the classroom at all times. I _strongly_ suggest taking notes on paper. A tablet is acceptable for note-taking. A tablet should __not__ be used for any other purpose.
 
 This is your warning around off-topic computer use. Violations include (but not limited to): looking at the screen, typing, and using any type of computer for activities not directly to the current in-class activities. Every violation will negatively impact your total grade by losing professional points. The penalties scale exponentially - The first offense is will result in a .5% loss of total points, the second offense is 1% of total points, the third offense is 3%, the fourth offense is 6%, and the fifth offense is 10% of total points (i.e., the cap is 100% of your professional points). 
 
@@ -182,7 +186,7 @@ More detailed information is in the quiz policies document in the resources fold
 
 ### Labs
 
-Each lab will be a collection of short coding problems in Python. There will be 1 lab per week (for a total of 4, each worth 5% of total grade). Each lab will due on Sunday by 9:00p submitted on Canvas.
+Each lab will be a collection of short coding problems in Python. There will be 1 lab per week (for a total of 4, each lab is worth 5% of total grade). Each lab will due on Sunday by 9:00p submitted on Canvas.
 
 Late assignments will only be accepted for medical emergencies.
 
@@ -203,6 +207,8 @@ Grading standards
 ----
 
 The MSDS program considers a grade of "A" to represent exceptional work with respect to both the instructor's expectations and peer student achievements. I consider an "A" grade to be above and beyond what most students achieve. A grade of "B" represents the expected outcome, what is called "competence" in a business setting. A "C" grade represents achievements lower than the instructor's expectations for competence in the subject. A grade of "F" represents little or no work in the course.
+
+I will "curve" the final numerical grades at the end of the course. The mapping from percentages to letter grades (e.g., [95, 100] is an A, [90,95) is an A-, etc.) will not be established until the end of the course. Roughly, the top 15% of students will receive grades of A or A-. Roughly, 60% of students will receive grades of B+, B, or B-. Roughly, 20% of students will receive grades of C+, C, or C-. Students can receive failing grades. I am not required by program to fail a particular percentage of students, but I will fail students if it is appropriate. Students who fail this course __cannot__ continue in the MSDS program. 
 
 Students with disabilities
 -----
