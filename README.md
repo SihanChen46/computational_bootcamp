@@ -16,7 +16,7 @@ Logistics
 
 __Instructor:__ Brian Spiering   
 __Contact__: [Slack @Brian Spiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
-__Office hours__: Mondays and Thursdays<sup>*</sup> from 12:30-1:00p   
+__Office hours__: By appointment; Mondays and Thursdays<sup>*</sup> from 12:30-1:00p   
 \* Except: 1st week Tuesday (07/09) from 12:30-1 and Thursday (07/011) from 3-3:30; 2nd week Thursday  (07/18) from 3-3:30.
 
 __Grader__: Robert Sandor  
@@ -109,7 +109,7 @@ Topics Not Covered
 - Introduction to programming (the course assumes you already know the very basics of programming)
 - Implementation of fundamental programming data structures (e.g., linked lists)
 - Implementation of fundamental programming algorithms (e.g., sorting)
-- Python 2
+- Python 2 and R programming language
 - Other libraries in Python's data science stack: SciPy, scikit-learn, Pandas
 - Tabular data storage and processing: JSON, CSV, parquet
 - Advanced OOP: Multiple inheritance, static methods, property methods
