@@ -2,8 +2,13 @@ Student Assignment Submission Instructions
 ------
 
 1. Rename notebook with your __login id appended to beginning__: `lab_1_functions.ipynb` -> `bspiering_lab_1_functions.ipynb`.
+2. Delete
+    ```python
+    # YOUR CODE HERE
+    raise NotImplementedError()
+    ```
 1. Write code until unit tests pass (or you give up).
-1. Submit with url link on Canvas before due date data and time.
+1. Upload notebook on Canvas before due date and time.
 
 Here are __invalid__ renaming examples:
 
@@ -12,6 +17,10 @@ Here are __invalid__ renaming examples:
 - bspiering.ipynb
 
 If the file was not renamed in the right format, it would be regarded as no submission and graded as zero.
+
+Do __not__ import anything, unless explicitly instructed. No additional imports from Python's Standard Library and no third package.
+
+There are __no__ hidden tests, unless explicitly stated. Thus, you code does __not__ need to work on all valid and invalid inputs. Your code needs to work on the inputs in the visible tests.
 
 Do __not__ add extra cells. Adding any additional cells will result in a zero grade.
 
