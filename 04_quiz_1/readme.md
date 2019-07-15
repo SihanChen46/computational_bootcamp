@@ -1,6 +1,6 @@
 See Quiz Policies in resources folder.
 
-__All__ course materials are fair-game. All quizzes are cumulative.__
+__All__ course materials are fair-game. All quizzes are __cumulative.__
 
 More effective ways of studying
 ------
@@ -15,8 +15,8 @@ More effective ways of studying
     1. Mental walk through it. Understand the control flow and state of all variables. Predict the outcome.
     2. Double check your intuition with Python Tutor.
     3. Start with your own code. 
-    4. Then do the same with my code. I have lots of code laying around if you want more examples.
-    5. Finally, look at high quality code. An example is [here](https://github.com/norvig/pytudes/blob/master/ipynb/Advent%202017.ipynb)
+    4. Then do the same process with my code. I have lots of code laying around if you want more examples.
+    5. Finally, do the same process with other high quality code. An example is [here](https://github.com/norvig/pytudes/blob/master/ipynb/Advent%202017.ipynb)
 1. Take a concept from class and create a mind-map.
     - This is also called the Feynman Technique.
     - Double check your mind-map. Correct errors in your understanding.
