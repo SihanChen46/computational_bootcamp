@@ -4,7 +4,7 @@ Prework
 Required
 ------
 
-- Before class install [Sublime Text 3](https://www.sublimetext.com/3)
+- Before class install [Sublime Text 3](https://www.sublimetext.com/3) with `$ brew cask install sublime-text`
 - Recursion
     + [Beginner’s guide Recursion](https://www.youtube.com/watch?v=fhDsjfLSmVk) (40 minutes)
     + [FoPP (Fundamental of Python Programming)](http://python.cs.southern.edu/pythonbook/pythonbook.pdf) sections:
