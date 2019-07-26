@@ -1,3 +1,7 @@
+# Stupid mac files
+**/.DS_Store
+*.DS_Store
+
 # Instructor notes
 instructor/
 instructor_resources/
@@ -107,4 +111,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-.DS_Store
+
