@@ -84,21 +84,20 @@ Course Schedule and Topics (Tentative)
 1. 07/25 
     - Object-oriented programming (OOP) and using classes   
     - Solving the same problem in multiple programming paradigms
+1. 07/29 Quiz #3  
 1. 07/29 
     - Unicode  
     - Debugging
-1. 08/01 Quiz #3  
 1. 08/01
-    - Review / Buffer day
-    - Possible Topics:
-        - Advanced functions: generators, decorators
-        - Intermediate Python: `any`, `all`, `in`
-        - Standard Library modules: `sys`, `os`, `collections`
+    - `lambda` functions
+    - Generators
+    - Assorted programming tips & tricks
+    - Review problems
+1. 08/05 Quiz #4  
 1. 08/05
     - How to organize code (e.g., pep8)  
     - Refactoring 
     - Create your own modules  
-1. 08/08 Quiz #4  
 1. 08/08
     - Amazon Web Services (AWS), s3, and ec2   
     - Optional topics
