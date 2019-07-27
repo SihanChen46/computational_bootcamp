@@ -17,3 +17,5 @@ Optional
 
 - [Functional Programming in Python](https://www.youtube.com/watch?v=r2eZ7lhqzNE) (40 minutes)
 - [Functional Programming in an Imperative World. Maybe](https://www.youtube.com/watch?v=Nk2kqwz7jjs) (45 minutes)
+- [functools.partial](https://docs.python.org/3/library/functools.html#partial-objects) is powerful and powerful. fastAI uses it alot:
+    + [Nice intro video](https://www.youtube.com/watch?v=1BSgnKSuhc0) (7 minutes)
