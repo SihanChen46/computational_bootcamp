@@ -26,7 +26,7 @@ Less effective ways of studying
 
 1. Reviewing notes without taking any action.
 2. Reviewing with classmates (you will be taking the quiz independently).
-1. Not studying.
+1. Not studying.    
 2. Cramming at 8:45a.
 
 >"There is no amount of work you could do today that will offset the progress you could have made in a properly structured week."   
