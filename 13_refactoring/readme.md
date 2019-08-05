@@ -6,7 +6,7 @@ Required
 
 - [How To Create Modules in Python 3](https://www.youtube.com/watch?v=m6hhUBXcA-E) (13 minutes)
 - [Refactoring Python: Why and how to restructure your code](https://www.youtube.com/watch?v=D_6ybDcU5gc) (30 minutes)
-- [PEP8 Tips: Python Naming Conventions ](https://www.youtube.com/watch?v=Uw95Uc3xgWU) (5 minutes)
+- [PEP8 Tips: Python Naming Conventions](https://www.youtube.com/watch?v=Uw95Uc3xgWU) (5 minutes)
 
 Challenge
 -----
